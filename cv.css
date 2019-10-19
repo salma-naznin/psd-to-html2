@@ -1,0 +1,14 @@
+h1,h2{
+	font-weight:bold;
+	text-align:center;
+	color:blue;
+	font-size:25px;
+	
+}
+h3{color:green;
+font-size:20px;
+}
+p{
+	color:navy;
+	font-size:17px;
+}
